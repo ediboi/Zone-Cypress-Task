@@ -1,0 +1,17 @@
+{
+    "mp3Header": "MP3 Players",
+    "cartItem": "Nikon D300",
+    "firstName": "Anthony",
+    "lastName": "Anthony",
+    "password": "password8%",
+    "confirmPassword": "password8%",
+    "telephone": "1234567890",
+    "company": "mycompany",
+    "address1": "myaddress1",
+    "address2": "myaddress2",
+    "city": "mycity",
+    "postCode": "mypostcode",
+    "confirmOrder": "Confirm Order",
+    "successfulOrder": " Your order has been placed!"
+
+}
